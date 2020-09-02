@@ -1,0 +1,63 @@
+
+table {
+    border-color: #3CAEA3;
+    width: 100%;
+}
+.my-repos p {
+    text-indent: 3rem;
+}
+.description{
+    text-align: center;
+    
+}
+tr {
+    font-size: 16px;
+}
+a:hover {
+    text-decoration: none;
+}
+td a {
+    font-size: 25px;
+    color: #3CAEA3;
+    font-weight: bolder;
+}
+
+p {
+    text-indent: 2rem;
+}
+
+.col-md-12 {
+    text-align: center;
+}
+.container {
+    margin-top: 2rem;
+}
+
+
+/* profile*/
+img {
+    max-width: 50%;
+    border-radius: 25px;
+}
+.image-right {
+    padding-top: 8rem;
+    text-align: center;
+}
+
+
+.avatar {
+    text-align: center;
+    background-color:#585858;
+    padding: 20px;
+}
+
+h2{
+    color: white;
+    text-shadow: 2px 2px #585858;
+}
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
