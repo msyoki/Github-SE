@@ -1,0 +1,10 @@
+.navbar{
+    overflow: hidden;
+    background-color:#585858;
+    display: block;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
